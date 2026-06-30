@@ -13,7 +13,7 @@ what service they're likely running, and exports results to JSON.
 
 ## How to run
 ```bash
-python port_scanner.py 127.0.0.1 --start 1 --end 1000 --output results.json
+python simple_port_scanner.py 127.0.0.1 --start 1 --end 1000 --output results.json
 ```
 
 ## What it taught me
